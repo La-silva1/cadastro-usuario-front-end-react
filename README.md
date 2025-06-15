@@ -24,7 +24,7 @@ git clone https://github.com/La-silva1/cadastro-usuario-front-end-react.git
 
 2. Acesse a pasta do projeto:
 ```bash
-cd nome-da-pasta
+cd cadastro-usuarios-front-end-react
 ```
 
 3. Instale as dependências:
@@ -41,8 +41,4 @@ O projeto será executado em `http://localhost:5173`
 
 ## 📝 Observações
 
-- Este projeto é apenas o front-end. Para funcionamento completo, execute também o projeto 
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+- Este projeto é apenas o front-end. Para funcionamento completo, execute também o projeto `https://github.com/La-silva1/cadastro-usuario-backend-node`
