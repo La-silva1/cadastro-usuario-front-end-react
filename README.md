@@ -41,4 +41,4 @@ O projeto será executado em `http://localhost:5173`
 
 ## 📝 Observações
 
-- Este projeto é apenas o front-end. Para funcionamento completo, execute também o projeto `https://github.com/La-silva1/cadastro-usuario-backend-node`
+- Este projeto é apenas o front-end. Para funcionamento completo, execute também o projeto [Cadastro de Usuários - Back-End com Node](https://github.com/La-silva1/cadastro-usuario-backend-node)
